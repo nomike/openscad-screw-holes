@@ -15,6 +15,12 @@
       "id": 14287504,
       "name": "screw_holes.scad",
       "url": "https://www.thingiverse.com/download:14287504"
+    },
+    "example.scad": {},
+    "output/example.stl": {
+      "id": 14287606,
+      "name": "example.stl",
+      "url": "https://www.thingiverse.com/download:14287606"
     }
   },
   "images": {},
