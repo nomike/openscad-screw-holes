@@ -4,7 +4,6 @@ The following standards are currently understood:
 
 DIN912, DIN963, DIN965, DIN34811, ISO4762, ISO2009, ISO7046, ISO14581 and ISO10642.
 
-
 #### Usage
 
 ```openscad
