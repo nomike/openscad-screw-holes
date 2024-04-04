@@ -1,0 +1,26 @@
+{
+  "thing": {
+    "name": "OpenSCAD Screw Holes",
+    "category": "Other",
+    "tags": [
+      "parametric",
+      "openscad"
+    ],
+    "is_wip": false,
+    "license": "cc-by",
+    "id": 6564583
+  },
+  "files": {
+    "screw_holes.scad": {
+      "id": 14287504,
+      "name": "screw_holes.scad",
+      "url": "https://www.thingiverse.com/download:14287504"
+    }
+  },
+  "images": {},
+  "ancestors": [
+    {
+      "id": 1731893
+    }
+  ]
+}
