@@ -68,3 +68,11 @@ include <screw_holes.scad> // if you copied the file to your project directory o
 This module is based upon the [screw_holes.scad](https://www.thingiverse.com/thing:1731893) module by [carloverse](https://www.thingiverse.com/carloverse).
 
 The original module hasn't been updated in years and it's throwing some warnings in OpenSCAD. As it is a really useful module, I decided to fork and update it.
+
+#### Thingiverse
+
+<https://www.thingiverse.com/thing:6564583>
+
+#### GitHub
+
+<https://www.thingiverse.com/thing:6564583>
