@@ -1,3 +1,5 @@
+// License: Creative Commons - Share Alike - Attribution
+
 include<screw_holes.scad>
 
 object_length = 30;
